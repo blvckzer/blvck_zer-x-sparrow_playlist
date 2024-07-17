@@ -11,20 +11,20 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "MANJAABI",
+    artist: "M.H.R Efy Music_JOKER390P",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "HARETH..!!!",
+    artist: "RHDXVAN",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "ALIF",
+    artist: "Dabzee,SA,ft_Abraw",
     img: "music-3",
     src: "music-3"
   },
