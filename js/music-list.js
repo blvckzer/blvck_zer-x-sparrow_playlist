@@ -29,8 +29,8 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "kalapakkaara(from king of kotha)",
-    artist: "Jakes Bejoy,Shreya Ghoshal,benny Dayal,FEJO,Joe paul",
+    name: "BALLAATHA JAATHI",
+    artist: "Dabzee,Nj,Baby Jean ",
     img: "music-4",
     src: "music-4"
   },
