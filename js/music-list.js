@@ -29,20 +29,20 @@ let allMusic = [
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "TEST NAME",
+    artist: "TEST NAME",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
+    name: "TEST NAME",
     artist: "Jim Yosef x Roy",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "TEST NAME",
+    artist: "TEST NAME",
     img: "music-6",
     src: "music-6"
   },
