@@ -36,7 +36,7 @@ let allMusic = [
   },
   {
     name: "TEST NAME",
-    artist: "Jim Yosef x Roy",
+    artist: "TEST NAME",
     img: "music-5",
     src: "music-5"
   },
