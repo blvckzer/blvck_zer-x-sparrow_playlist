@@ -12,7 +12,7 @@
 let allMusic = [
   {
     name: "MANJAABI",
-    artist: "M.H.R Efy Music·JOKER390P",
+    artist: "M.H.R Efy Music_JOKER390P",
     img: "music-1",
     src: "music-1"
   },
@@ -23,8 +23,8 @@ let allMusic = [
     src: "music-2"
   },
   {
-    name: "TEST NAME ",
-    artist: "TEST NAME ",
+    name: "ALIF",
+    artist: "Dabzee,SA,ft_Abraw",
     img: "music-3",
     src: "music-3"
   },
