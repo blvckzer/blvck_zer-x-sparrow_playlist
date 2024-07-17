@@ -11,14 +11,14 @@
 
 let allMusic = [
   {
-    name: "TEST NAME",
-    artist: "TEST NAME",
+    name: "MANJAABI",
+    artist: "M.H.R Efy Music·JOKER390P",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "TEST NAME",
-    artist: "TEST NAME ",
+    name: "HARETH..!!!",
+    artist: "RHDXVAN",
     img: "music-2",
     src: "music-2"
   },
